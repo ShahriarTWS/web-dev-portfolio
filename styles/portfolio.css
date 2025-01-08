@@ -234,7 +234,7 @@ footer{
     width: 50%;
 }
 .footer-column img{
-    gap: 24px;
+    margin-right: 24px;
 }
 .connect-description{
     font-family: "Open Sans", serif;
@@ -253,7 +253,7 @@ footer input[type="text"], footer input[type="email"]{
 }
 footer input[type="text"], footer input[type="email"]{
     font-family: "Open Sans", serif;
-    height: 64px;
+    height: 50px;
     width: 100%;
     margin-bottom: 24px;
     border-radius: 5px;
@@ -265,7 +265,7 @@ footer input[type="text"], footer input[type="email"]{
 
 footer textarea{
     font-family: "Open Sans", serif;
-    height: 180px;
+    height: 170px;
     width: 100%;
     margin-bottom: 24px;
     border-radius: 5px;
