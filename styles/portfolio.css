@@ -284,16 +284,20 @@ footer textarea{
         margin: 0px;
         padding: 0px;
         display: flex;
+        justify-content: center;
+        
         gap: 10px;
         
     }
     nav ul li{
         margin-right: 0px;
         justify-content: space-around;
+        
     }
     nav ul .hire-me{
         /* list-style: none; */
         margin-right: 0px;
+        margin-bottom: 0px;
     }
 
     .skill-container{
